@@ -1,0 +1,12 @@
+package com.example.blockchaincamera.dto;
+
+public enum MessageType {
+    REQUEST_LATEST_BLOCK,
+    REQUEST_RECENT_BLOCKS,
+    MINING_TASK_HEADER,
+    BLOCK_FOUND,
+    BLOCK_ACCEPTED,
+    ERROR_INVALID_BLOCK,
+    LATEST_BLOCK_RESPONSE,
+    RECENT_BLOCKS_RESPONSE
+}
