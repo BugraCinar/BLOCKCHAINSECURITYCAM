@@ -79,4 +79,4 @@ To compile, test, and package a standalone executable JAR, run the following com
 ./mvnw clean package
 ```
 
-Upon completion, the built executable `.jar` file will be deposited in the `target/` output directory.
+Upon completion, the built executable `.jar` file will be deposited in the `target/` output directory. Good Luck
